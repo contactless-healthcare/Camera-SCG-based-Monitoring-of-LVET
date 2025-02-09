@@ -27,4 +27,5 @@ You can [download the Camera-SCG Dataset here](https://drive.google.com/drive/fo
 
 Running the `main.m` script allows you to extract the LVET curve from laser speckle videos, along with the corresponding LSM-HF, LSM-LF components, and their starting points, as well as the AO and AC markers. To analyze a different video, you can modify the `videoPath` variable in the script to point to the desired video file.  
 
-If you need the test laser speckle video, please feel free to contact us.
+We have provided three test videos that you can download and use for testing the script. Click the link below to download the test videos: [Download Test Videos](https://drive.google.com/drive/folders/1czBqZRZB97kIS8KjLWM5tkY_uvVdwBn-?usp=drive_link)
+
